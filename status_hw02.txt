@@ -1,0 +1,41 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Emma Reed		
+
+2. What hostname did you deploy to?
+hw02.ereed.xyz
+
+3. What's the link to your repository on github with your code?
+https://github.com/emasreed/cs4550-hw2
+
+4. How many HTML / CSS tutorial exercises did you do?
+Some. I had previous experience so I skipped ones that I was already familar with.
+
+5. How comfortable do you feel with HTML and CSS now?
+Very comfortable
+
+6. How many JS tutorial exercises did you do?
+Some. I had previous experience so I skilled ones that I was already familar with.
+
+7. How comfortable do you feel with JS now?
+Very comfortable.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+yes
+
+9. Which parts of this assignment did you have trouble with, if any?
+
+The github structure is a little challenging to work with since we need to have a repo with both nginx configs and site code which go in very different parts of the machine requiring copies in improper places.
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
